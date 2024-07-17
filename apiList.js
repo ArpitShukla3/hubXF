@@ -1,5 +1,5 @@
 // export const server=`http://localhost:4000`
-export const server=`https://hubxb.onrender.com`
+export const server=`https://hubxb.onrender.com/api`
 
 export const apiRegister= `${server}/signup`
 export const apiLogin= `${server}/login`
